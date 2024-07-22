@@ -19,7 +19,7 @@
   <b>Guide: https://rewanthtammana.com/damn-vulnerable-bank/</b>
 </p>
 
-## About application         
+
 [Damn Vulnerable Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) is designed to be an intentionally vulnerable android application. All the details are documented in the guide, [here](https://rewanthtammana.com/damn-vulnerable-bank/).
 
 ![Guide overview](./images/damn-vulnerable-bank-guide.png)
@@ -98,7 +98,7 @@ To keep things crisp and interesting, we hidden this section. Do not toggle this
 
 Read more, [here](https://rewanthtammana.com/damn-vulnerable-bank/authors.html).
 
-## Contributors
+## Contributors      
 
 <a href = "https://github.com/rewanthtammana/damn-vulnerable-bank/contributors">
   <img src = "https://contrib.rocks/image?repo=rewanthtammana/damn-vulnerable-bank"/>
