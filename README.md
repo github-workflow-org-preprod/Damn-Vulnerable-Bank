@@ -98,7 +98,7 @@ To keep things crisp and interesting, we hidden this section. Do not toggle this
 
 Read more, [here](https://rewanthtammana.com/damn-vulnerable-bank/authors.html).
 
-## Contributors
+## Contributors      
 
 <a href = "https://github.com/rewanthtammana/damn-vulnerable-bank/contributors">
   <img src = "https://contrib.rocks/image?repo=rewanthtammana/damn-vulnerable-bank"/>
